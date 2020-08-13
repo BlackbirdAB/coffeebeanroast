@@ -100,3 +100,23 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#load-image {
+    width: 15%;
+}
+#upload-image-input{
+    width: 61%;
+}
+#pointer-mode {
+width: 24%;
+align: center;
+}
+#bean-colour {
+width: 80%;
+}
+#comment-buttons {
+width: 20%;
+align: left;
+}
+#Comments {
+align: center;
+}
